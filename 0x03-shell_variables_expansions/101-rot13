@@ -1,2 +1,2 @@
-[A[A[B[B[B[A[Bn/bash
-tr 'A-Za-z' 'N-ZA-Mn-za-m'[D[D[D[D[D[D[N[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D
+#!/bin/bash
+tr 'A-Za-z' 'N-ZA-Nn-za-m'[D[D[D[D[D[D[M
