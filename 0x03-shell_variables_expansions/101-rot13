@@ -1,2 +1,2 @@
 #!/bin/bash
-"tr 'a-zA-Z' [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Ctr[[C[6~[C[C[C[C[C[C[C 'a-zA-Z' 'n-za-mN-ZA-M'
+tr 'a-zA-Z' 'n-za-mN-ZA-M'
